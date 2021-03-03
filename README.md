@@ -1,4 +1,3 @@
 # mahoa_decryp_encryp
-oracle ma hoa bam bam 
-
+oracle mã hóa hàm băm
 file doan_atbm: đồ án 4 người, trân làm mã hóa với VPD 
